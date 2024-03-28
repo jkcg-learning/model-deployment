@@ -111,7 +111,6 @@ dmypy.json
 *.h5
 *.ckpt
 *.tfevents.*
-*.onnx
 *.pb
 *.pkl
 *.pt
