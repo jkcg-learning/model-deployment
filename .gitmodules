@@ -1,3 +1,0 @@
-[submodule "model-deployment-browser/detection-web-onnx"]
-	path = model-deployment-browser/detection-web-onnx
-	url = https://github.com/satyajitghana/web-yolo-onnx.git
