@@ -16,8 +16,8 @@
 
 ![ecs](assets/ECS.png)
 
-![lb-1](assets/LB-1.png)
+![lb-1](assets/CLIP-LB-1.png)
 
-![lb-2](assets/LB-2.png)
+![lb-2](assets/CLIP-LB-2.png)
 
 ![locust](assets/Locust.png)
